@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.Properties.Resources.resources
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.AssemblyInfo.cs
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\rankClient.deps.json
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\rankClient.dll
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\rankClient.pdb
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.csproj.CopyComplete
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.dll
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\rankClient.pdb

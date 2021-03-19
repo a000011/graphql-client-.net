@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4Tv9WDoA0p+mgDk2G7H9AF8EHmduaIHjOH9XiN/ItgiNDXCNT0TPp1lvTf1HcgSIU8oApu3Q9lEaxvN1qlqCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anton\\source\\repos\\testing\\graphClient\\rankClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.client\\3.2.2\\graphql.client.3.2.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.client.abstractions\\3.2.2\\graphql.client.abstractions.3.2.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.client.abstractions.websocket\\3.2.2\\graphql.client.abstractions.websocket.3.2.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\3.2.2\\graphql.client.serializer.newtonsoft.3.2.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\graphql.primitives\\3.2.2\\graphql.primitives.3.2.2.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\graphClient.deps.json
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\graphClient.dll
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\graphClient.pdb
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.AssemblyInfo.cs
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.dll
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.pdb
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\anton\source\repos\testing\graphClient\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.Properties.Resources.resources
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\testing\graphClient\obj\Debug\netcoreapp3.1\graphClient.csproj.CopyComplete
